@@ -1,0 +1,18 @@
+------------------------
+FPGA Information  
+--------------------------------------------
+
+
+Igloo Starter Kit
+Board : AGLN250V2 - VQG100
+Low : Cost programming stick (LCPS)
+
+
+Using Libero 10.1
+
+------------------------
+Files
+--------------------------------------------
+
+--start.bat	:	set environment variables on Windows and start the server
+--license.dat	:	the license file. Set this Mac on your eth0
